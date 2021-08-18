@@ -1,0 +1,4 @@
+runtime: go115
+
+env_variables:
+  GCLOUD_DATASET_ID: YOUR_PROJECT_ID_HERE
